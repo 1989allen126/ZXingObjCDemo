@@ -1,0 +1,13 @@
+//
+//  ZXingSDK-PrefixHeader.pch
+//  ZXingSDK
+//
+//  Created by Jianglun Jin on 2021/11/17.
+//
+
+#ifndef ZXingSDK_PrefixHeader_pch
+#define ZXingSDK_PrefixHeader_pch
+
+#import <UIKit/UIKit.h>
+
+#endif /* ZXingSDK_PrefixHeader_pch */
